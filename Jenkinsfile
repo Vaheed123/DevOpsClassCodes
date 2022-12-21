@@ -6,7 +6,7 @@ pipeline{
 	    
                steps{
 		 echo 'cloning..'
-                 git 'https://github.com/akshu20791/DevOpsClassCodes.git'
+                 git 'https://github.com/Vaheed123/DevOpsClassCodes.git'
               }
           }
           stage('Compile'){
